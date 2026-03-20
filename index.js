@@ -1,3 +1,4 @@
+require('./keep_alive.js');
 #!/usr/bin/env node
 const fs = require('fs');
 const readline = require('readline');
